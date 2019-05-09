@@ -22,7 +22,7 @@ In order to better understand what a New Deal 4 Canada could look like, we would
 
 ## Details of the Deal
 
-### City Building and Relationship Building
+### City and Relationship Building
 
 ### Green Technology
 
