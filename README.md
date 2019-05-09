@@ -1,2 +1,6 @@
-# new-deal-4-canada
-A new deal for a new era, in Canada
+# Concerning a New Deal 4 Canada (ND4C)
+
+Canada is at a cross-roads, much like its neighbour the United States. For many on both sides of the border there is a sense of unending crisis. There are so many fires and not enough hoses. People feel that the status quo is not working but are unsure what needs changing. Most politicians are offering no real hope, while the others offer a facade, which evokes baser instincts of their constituents stirring resentments.
+
+Neither Canada nor the United States are strangers to adversity. War, rebellion and even the Great Depression tested the people and they pulled through each time by working together rather than against each other. President Franklin Roosevelt enacted The New Deal during the depression, which put people back to work and gave them the hope that they desperately needed at the time. Prime Minister [R. B. Bennett](https://en.wikipedia.org/wiki/R._B._Bennett#Bennett's_New_Deal) eventually proposed our own Canadian deal after reading an immense number of letters from impoverished people and offering up some of his own money to help people out. The Canadian deal was similar in spirit to the US New Deal, but different, because the circumstances in Canada were not the same.
+
