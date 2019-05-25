@@ -52,8 +52,18 @@ When the British were expanding Canada's western frontier, refugees were offered
 
 The situation is quite different now. Populations are now more focused in urban areas. There is much more specialization and training required in many fields of employment. Vibrant cities need a wide variety of professions in order to function properly: construction workers, engineers, medical professionals, merchants, teachers, child care workers and many others. The necessary skills and training can be sometimes found among refugees while other times it can be found among Canadians. Apprenticeship programs can help dto develop the skills with on the job training. The idea is to help people from different backgrounds to work together towards a common goal. A motivation for a new Canadian might be to have a home and a career in a safe place. Existing Canadians might be motivated by the prospect of owning their own home and having fruitful employment that pays the bills and offers them better hope than the alternative.
 
-A modern equivalent of the crown land patent might be to offer very reasonably priced homes with the requirement that the patentee devote a specified number of years employed in the building or maintenance of the new city where they reside. After that time they could choose to sell their share and move onto whatever opportunities they like.
+A modern equivalent of the crown land patent might be to offer very reasonably priced homes (or future homes) with the requirement that the patentee devote a specified number of years employed in the building or maintenance of the new city where they reside. After that time they could choose to sell their share and move onto whatever other opportunities that they like.
+
+New cities can be made better than the old ones using better planning, technologies and without the limitations of history and geography. This is an opportunity to start over with the knowledge and experience gained elsewhere.
 
 ### Green Technology
 
+Green technology in a Canadian context needs to address the areas that require the most energy: heat and transportation. The country is a very large place with a generally cold climate. Part of the new deal will be to foster the development new approaches to heat homes both economically and in a carbon neutral way. Similarly, transportation of people and materials should be green. Technologies in these areas will be particularly useful for the existing Canadian cities while they transition themselves to greener technology with ample opportunities for knowledge and business exchanges. Also, some of the spinoffs from this work could help Canada to lead the world in some of these efforts.
+
 ### Worker Cooperatives
+
+Prosperous nations have strong middle classes. It has been shown that worker cooperatives, where employees are also voting shareholders, provide a stable foundation for a middle class. Employees take more of an active interest in the profitability of the company and also act to preserve the interest of the employees. Since no employee is permitted to own more shares than any other employee there is a strong incentive for cooperation even among people with very different backrounds. Also, everyone has a vested interest in the continued success of the company.
+
+## Putting it all together
+
+The New Deal 4 Canada would be to accept a large number of refugees, partnering with Canadians with the goal of building new green cities with a strong emphasis on leveraging worker cooperatives to create a stable workforce to build and sustain those cities.
