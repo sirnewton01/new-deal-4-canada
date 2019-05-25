@@ -34,6 +34,10 @@ Canada is the second largest country in the world and has has among the lowest p
 
 Much of Canadian climate includes very cold winters. Heating during the cold weather is not optional and energy intensive. Often the choice of heat is either carbon intensive or expensive, sometimes both.
 
+### Universal Healthcare
+
+Canada already enjoys universal healthcare. Unlike the US Green New Deal, there's not as much urgency in reforming the health care system.
+
 ## Opportunities
 
 ### City Building
