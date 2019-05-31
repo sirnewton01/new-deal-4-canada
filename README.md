@@ -78,16 +78,16 @@ The New Deal 4 Canada proposal is to accept a large number of refugees, partneri
 
 While modern cities often have a wide variety of employment there is often a specific sector that helps to form the base that sustains it. Ottawa is primarily a government and technology town. Toronto has had a strong finance sector. For Calgary, it is the energy sector. For each new city there could be a theme that will help to establish its base.
 
-### Khawis City (Transportation)
+### [Khawis](https://glosbe.com/en/see/Carry) City (Transportation)
 
 Transportation of people and materials across this very large country is a big concern. Much of the materials and know-how to build electric vehicles is available already. There are world-class universities in Canada with excellent engineering programs. Materials for making batteries, such as Lithium can be found in various places around the country. There is steel and aluminum producers already for raw materials. What is needed is a design and manufacturing centre to bring in the raw materials and produce viable products.
 
 Also, there is increasing effort to bring artificial intelligences into the transportation realm through self-driving vehicles. There are AI research hubs existing already in some places, such as Ottawa.
 
-### Iskotew City (Energy and Heat)
+### [Iskotew](http://www.creedictionary.com/search/index.php?q=iskotew&scope=1&cwr=50229) City (Energy and Heat)
 
 Heating requires alot of energy, whether to heat air or water. The question is how to produce energy sustainably and without emitting more carbon into the atmosphere. Bold new ideas might be needed here. Alternatively, adjustments to existing ideas might work too. Luckily, Canada already has expertise in producing energy from nuclear, water and wind, not to mention the fossil fuels. The focus on this city will be to show the rest of Canada what the future of energy can be and to provide the  technologies to do it.
 
-### Gitige City (Green Agriculture)
+### [Gitige](https://ojibwe.lib.umn.edu/main-entry/gitige-vai) City (Green Agriculture)
 
 Canadian farmers have had to endure short growing seasons and the cold weather. They have adapted quite well given the circumstances. Many have adopted new techniques and equipment over time to feed more and more people. More can be done though to feed more people with less energy, land and water so that food doesn't need to be transported over large distances at great cost. Also, agriculture should be able to adapt to extreme climate and weather events in order to safeguard the food supply. Future agriculture should also be able to make better guarantees about the safety and nutrition of the food that we consume.
